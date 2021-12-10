@@ -1,0 +1,136 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/lisa-keffer-3B8nIiT-Pmc-unsplash.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 550px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 1140px;
+  min-height: 237px;
+  margin: 68px 0 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 0 auto 0 0;
+  padding: 10px 125px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -62px 0 0 auto;
+  padding: 10px 94px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+  margin: 22px auto 0 0;
+  padding: 10px 129px 10px 128px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: solid;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -62px 0 0 auto;
+  padding: 10px 130px 10px 129px;
+}
+
+.u-section-1 .u-btn-5 {
+  border-style: solid;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 31px auto 0 0;
+  padding: 10px 159px 10px 158px;
+}
+
+.u-section-1 .u-btn-6 {
+  border-style: solid;
+  font-size: 1.5rem;
+  letter-spacing: 0px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: -62px 0 0 auto;
+  padding: 10px 145px 10px 144px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 454px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: -55px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-top: 15px;
+    margin-right: -46px;
+  }
+
+  .u-section-1 .u-btn-4 {
+    margin-top: -45px;
+  }
+
+  .u-section-1 .u-btn-5 {
+    margin-top: 24px;
+  }
+
+  .u-section-1 .u-btn-6 {
+    margin-top: -64px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 348px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 261px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 164px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}
